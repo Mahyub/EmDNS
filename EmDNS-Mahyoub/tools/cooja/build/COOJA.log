@@ -1,0 +1,78 @@
+[08:43:40 - AWT-EventQueue-1] [Cooja.java:2865] [INFO] - External tools default settings: /external_tools_linux_64.config
+[08:43:40 - AWT-EventQueue-1] [Cooja.java:2895] [INFO] - External tools user settings: /root/.cooja.user.properties
+[08:44:08 - Thread-1] [Simulation.java:420] [INFO] - Simulation random seed: -1293073110815577262
+[08:44:08 - Thread-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[08:44:09 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:44:09 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:44:09 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:44:09 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:44:09 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:44:09 - Thread-1] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[08:56:36 - Thread-2] [Simulation.java:420] [INFO] - Simulation random seed: -1293073110815577262
+[08:56:36 - Thread-2] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[08:56:37 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:56:37 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:56:37 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:56:37 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:56:37 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/contiki-mDNS/examples/test/mDNS_test.wismote
+[08:56:48 - Thread-3] [Simulation.java:420] [INFO] - Simulation random seed: 2480328362660534460
+[08:57:06 - AWT-EventQueue-1] [Simulation.java:420] [INFO] - Simulation random seed: -8816288371493626363
+[08:57:23 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:04:02 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:05:04 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:05:57 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:06:15 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:07:14 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:08:07 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:09:07 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:12:16 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:14:26 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:20:47 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:22:13 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:22:21 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:22:47 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:22:55 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:25:49 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:27:21 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:28:11 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:29:24 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:33:25 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:35:09 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:35:52 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:36:09 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:38:18 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:41:24 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:42:32 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[09:57:34 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:00:57 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:02:14 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:04:08 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:09:05 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:09:08 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:09:44 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:26:18 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:27:12 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[10:27:37 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[11:21:11 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[11:28:32 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[11:28:42 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[11:28:54 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[11:29:48 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[19:05:36 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[21:22:50 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[17:30:45 - AWT-EventQueue-1] [AbstractCompileDialog.java:637] [WARN] - Could not find Contiki source: /home/mahyoub/Dropbox/Implementation/Contiki-EmDNS-Mahyoub/EmDNS-Test/mDNS_test.c
+[17:30:45 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make mDNS_test.wismote TARGET=wismote 
+[17:30:45 - AWT-EventQueue-1] [AbstractCompileDialog.java:637] [WARN] - Could not find Contiki source: /home/mahyoub/Dropbox/Implementation/Contiki-EmDNS-Mahyoub/EmDNS-Test/mDNS_test.c
+[17:30:45 - AWT-EventQueue-1] [AbstractCompileDialog.java:564] [FATAL] - Exception when compiling: Compilation error: Cannot run program "make" (in directory "/home/mahyoub/Dropbox/Implementation/Contiki-EmDNS-Mahyoub/EmDNS-Test"): error=2, No such file or directory
+[17:30:45 - AWT-EventQueue-1] [AbstractCompileDialog.java:637] [WARN] - Could not find Contiki source: /home/mahyoub/Dropbox/Implementation/Contiki-EmDNS-Mahyoub/EmDNS-Test/mDNS_test.c
+[17:31:17 - AWT-EventQueue-1] [Cooja.java:4146] [WARN] - Path is not portable: '/home/mahyoub/Dropbox/Implementation/EmDNS-Mahyoub/EmDNS-Test/Makefile
+[17:31:21 - AWT-EventQueue-1] [Cooja.java:4146] [WARN] - Path is not portable: '/home/mahyoub/Dropbox/Implementation/EmDNS-Mahyoub/EmDNS-Test/EmDNS-log.c
+[17:31:22 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:40:29 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:44:10 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:44:24 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:44:52 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:44:53 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:45:05 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:46:40 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
+[17:46:55 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make EmDNS-log.wismote TARGET=wismote 
